@@ -10,12 +10,12 @@
 
 int main(void) {
 
-	int STDOUT;
+	float STDOUT;
 
 	printf("Please enter an integer\n");
-	scanf("%d", &STDOUT);
+	scanf("%f", &STDOUT);
 
-	printf("%d\n", STDOUT);
+	printf("%f\n", STDOUT);
 
 
 
