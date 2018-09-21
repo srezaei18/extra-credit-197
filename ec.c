@@ -2,7 +2,7 @@
 //Extra Credit 1
 //Enter integer
 //Fri, Sept 21
-//
+//opens an interger
 
 
 
